@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django&logoColor=1dd1a1)
