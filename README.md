@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**atiqurrahman-it/atiqurrahman-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 [![Header](https://github.com/shakilkhan12/shakilkhan12/blob/main/shakil%20khan.gif)]
