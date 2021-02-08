@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi 👋, I'm Atiqur Rahman </h1>
 
 ![Header](https://github.com/atiqurrahman-it/atiqurrahman-it/blob/main/developer_pic.gif)
 
