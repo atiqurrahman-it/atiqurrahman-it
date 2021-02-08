@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django&logoColor=1dd1a1)
-![Boostrap](https://img.shields.io/badge/-Boostrap-000000?style=flat&logo=Boostrap&logoColor=ff9f43)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap&logoColor=ff9f43)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 
 *Some of the technologies I have worked with*
