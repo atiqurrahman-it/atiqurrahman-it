@@ -1,6 +1,6 @@
 
 
-[![Header](https://github.com/shakilkhan12/shahttps://github.com/atiqurrahman-it/atiqurrahman-it/blob/main/atiqur_it_git.pngkilkhan12/blob/main/shakil%20khan.gif)]
+[![Header](https://github.com/atiqurrahman-it/atiqurrahman-it/blob/main/atiqur_it_git.png)]
 
 [![webtipstricks.com](https://img.shields.io/badge/-webtipstricks-000000?style=for-the-badge&logo=react&logoColor=white)]
 
