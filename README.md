@@ -18,9 +18,8 @@
 ### Databases and Monitoring
   
   <a href="https://www.mysql.com/" target="_blank" >
-    <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/mysql-database-625245.png" height="65" />
+    <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/mysql-database-625245.png" height="57" />
   </a>
- 
     <a href="https://www.postgresql.org" target="_blank" >
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
   </a>
