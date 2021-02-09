@@ -8,7 +8,14 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning javascript
 - 💬 Ask me about Anything
-- 📫 How to reach me: atiqurrahman.cse2552@gmail.com
+
+### 📫 How to reach me?
+
+ - Visit my [Website](https://atiqurcse.herokuapp.com/) 🌐
+ - Connect with me on [LinkedIn]() 👨🏻‍💻
+ - Follow me on [Instagram](https://www.instagram.com/atiqur.cse/) ✨
+ - Shoot Me an [Email](mailto:atiqurrahman.cse2552@gmail.com) 💌
+
 
 *Languages I have used*
 
