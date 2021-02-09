@@ -2,7 +2,6 @@
 
 ![Header](https://github.com/atiqurrahman-it/atiqurrahman-it/blob/main/developer_pic.gif)
 
-![webtipstricks.com](https://img.shields.io/badge/-webtipstricks-000000?style=for-the-badge&logo=react&logoColor=white)
 
 
 Here are some ideas to get you started:
