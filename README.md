@@ -21,7 +21,10 @@
     <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/mysql-database-625245.png" height="57" />
   </a>
     <a href="https://www.postgresql.org" target="_blank" >
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-zculm&psig=AOvVaw2Mn-qCj9TcSi-hkf11pVIp&ust=1613671811552000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjM16HC8e4CFQAAAAAdAAAAABAQ" height="60" />
+  </a>
+      <a href="https://sqlitebrowser.org/" target="_blank" >
+    <img src=" https://user-images.githubusercontent.com/7804464/59509117-6caa5000-8eb0-11e9-8c9a-70b06f927d1b.png" height="60" />
   </a>
   </a>
     <a href="https://www.mongodb.com/" target="_blank" >
