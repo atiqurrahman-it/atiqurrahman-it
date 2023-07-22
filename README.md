@@ -43,7 +43,8 @@ Here are some ideas to get you started:
  - Visit my [Website](https://atiqurcse.herokuapp.com/) 🌐
  - Connect with me on [LinkedIn]() 👨🏻‍💻
  - Follow me on [Instagram](https://www.instagram.com/atiqur.cse/) Or [Facebook](https://www.facebook.com/atiqur.cse/) ✨
- - Shoot Me an [Email](mailto:atiqurrahman.cse2552@gmail.com) 💌
+ - Shoot Me an [atiqurrahman.cse2552@gmail.com](mailto:atiqurrahman.cse2552@gmail.com) 💌
+ - Know about my experiences [https://drive.google.com/file/d/1F5T71XGhI11gmvGA_713vDWlE6DDgrZ8/view?usp=sharing](https://drive.google.com/file/d/1F5T71XGhI11gmvGA_713vDWlE6DDgrZ8/view?usp=sharing)
 
 
 
