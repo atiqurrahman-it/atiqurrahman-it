@@ -22,7 +22,7 @@
 ### 📫 How to reach me?
 
  - Visit my [Website](https://atiqurcse.herokuapp.com/) 🌐
- - Connect with me on [LinkedIn]() 👨🏻‍💻
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/atiqur-cse/) 👨🏻‍💻
  - Follow me on [Instagram](https://www.instagram.com/atiqur.cse/) Or [Facebook](https://www.facebook.com/atiqur.cse/) ✨
  - Shoot Me an  Email [atiqurrahman.cse2552@gmail.com](mailto:atiqurrahman.cse2552@gmail.com) 💌
 
