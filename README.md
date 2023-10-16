@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **JavaScript,MERN**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16c_-EXUYEJSa1XKSTrS9XIwuA08tQrtj/view](https://drive.google.com/file/d/16c_-EXUYEJSa1XKSTrS9XIwuA08tQrtj/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rQh7M9h5o_0oD5HNZ2wZJi2TZ4JxYhyh/view?usp=sharing](https://drive.google.com/file/d/1rQh7M9h5o_0oD5HNZ2wZJi2TZ4JxYhyh/view?usp=sharing)
 
 
 ### 📫 How to reach me?
